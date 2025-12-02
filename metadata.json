@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Smart Wardrobe 2.0",
+  "description": "A high-end, AI-powered digital wardrobe application featuring smart item entry, fair price analysis, and outfit inspiration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
